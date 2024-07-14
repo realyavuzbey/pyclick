@@ -1,20 +1,20 @@
 # Auto Clicker & Macro Project
 
-## Kurulum
+## Installation
 
-1. Gerekli bağımlılıkları yükleyin:
+1. Install the required dependencies:
     ```sh
     pip install -r requirements.txt
     ```
 
-2. Projeyi çalıştırmak için:
+2. Run the project:
     ```sh
     python main.py
     ```
 
-## Kullanım
+## Usage
 
-- **main.py**: Projenin ana dosyasıdır.
-- **modules/clicker.py**: Auto clicker işlevlerini içerir.
-- **modules/macro.py**: Makro işlevlerini içerir.
-- **scripts/example_macro.txt**: Örnek bir makro dosyasıdır.
+- **main.py**: The main file of the project.
+- **modules/clicker.py**: Contains the auto clicker functionality.
+- **modules/macro.py**: Contains the macro functionality.
+- **scripts/example_macro.txt**: An example macro file.
