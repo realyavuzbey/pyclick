@@ -1,0 +1,5 @@
+type Hello
+wait 1
+type World
+wait 1
+type !
